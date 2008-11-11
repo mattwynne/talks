@@ -1,34 +1,45 @@
+Gear 
+  * Projector / leads for mac
+  * Filp-chart / whiteboard
+  
+Pics we need:
+  * For experts only
+  * Stop the line
 
 ## Intro
-  * Who we are
-  * How we met
+  * Who we are                
+  * How we met                
   * What the talk is about
-  * For experts only
+  * Matt: For experts only
 
 ## Scrum
-  * Revelation
+  * Rob:  Revelation
     * Empowered the team / Independence
-    * Retrospectives => Inspect & Adapt
-  * But wasteful:
+    * Retrospectives => Inspect & Adapt 
+  * Matt: But wasteful:
     * Exhausting All day estimation sessions
     * Task plans that got scrapped
-    * => Batches were bad
+    * => Batches were bad 
 
 ## From Batches to Flow: Mechanics of Change
-  * Value Stream Map
-  * Kanban board => No More Task Cards!
-  * Daily Task / Hours Burn Down => Daily CFD Story Burn Up
-  * Stop the Line => CI / Bugs
+  * Rob:  Value Stream Map
+  * Matt: Kanban board => No More Task Cards!
+    * Scary - how would we track / report progress?
+  * Matt: Daily Task / Hours Burn Down => Daily CFD Story Burn Up
+    * Started tracking todo as another finger
+  * Rob:  Stop the Line => CI / Bugs
 
 ## Effects
-  * We got even more disciplined
+  * Matt: We got even more disciplined
     * Defined 'Done' for each stage, not just an iteration
-  * We were more flexible
+  * Rob:  We were more flexible
     * Backlog priority could be changed at any time
-  * We missed the rhythm of iterations
+  * Matt: We missed the rhythm of iterations
+    * show & tell / retrospective help
 
 ## Conclusion
-  * Smaller is better
+  * Rob:  Smaller is better
     * smaller check-ins, smaller stories => smaller batches
-  * Regression may happen
-  * Lean is not a new religion: Inspect & Adapt is the key.
+  * Rob:  Regression may happen
+  * Matt: Lean is not a new religion: Inspect & Adapt is the key.
+  
